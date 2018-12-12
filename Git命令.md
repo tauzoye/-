@@ -21,3 +21,8 @@
 
 
 - git push origin branchName // 更新本地代码到远端
+
+
+- git clone git@github.com:tauzoye/-.git //克隆远程仓库到本地
+
+- git init //初始化本地仓库
