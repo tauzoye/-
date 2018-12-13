@@ -8,7 +8,9 @@
 - 原因：在reference的Integrity里勾上了Mandatory parent
 - 解决方法：把勾去掉
 
-## 字段 ##
+### Object(cls_table) name(T_BCM_TEMPALTE) object reference not set to an instance of an object###
+- 原因：索引定义加了一行，但是没有加上具体的列
+- 解决方法：给索引加上具体的列
 
 
 
