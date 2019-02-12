@@ -20,7 +20,7 @@
 - git pull -r origin branchName // fetch远端代码到本地，并且以rebase的方式合并代码
 
 
-- git push origin branchName // 更新本地代码到远端
+- git push origin branchName(master) // 更新本地代码到远端
 
 
 - git clone git@github.com:tauzoye/-.git //克隆远程仓库到本地
