@@ -6,13 +6,16 @@
 ### 有序列表 ###
 1. 有序列表（Ctrl+shift+o）
 2. 在文字前加上1. 2. 3.（注意与文字间要加空格）
+
 ### 无序列表 ###
 - 无序列表（ctrl+u）
 - 在文字前加上-或者*（注意与文字间要加空格）
+
 ## 引用 ##
 > 使用引用
 > 在文字前加上>（注意与文字间要加空格）
 > CTRL+Q
+
 ## 图片与链接 ##
 - 图片为：!()[]
 - 链接为: ()[]
@@ -21,6 +24,7 @@
 - eg:[美女图片](http://baidu.com)
 - [pdf](file:///C:/Users/Administrator/Desktop/markdownpad简明教程.html)
 - ![c](C:\Users\Administrator\Desktop\2.jpg)
+
 ## 粗体与斜体 ##
 1. 粗体
 	- 两个*包含一段文本
@@ -30,13 +34,16 @@
 	- 一个*包含一段文本
 	- *斜体*
 	- CTRL+I
+
 ## 代码框 ##
 - 用```包含文本
 - ```public static main(String[] args) ```
 - CTRL+k
+
 ## 横线 ##
 - 用三个*号
 ***
+
 ## 转义字符 ##
 - \
 
